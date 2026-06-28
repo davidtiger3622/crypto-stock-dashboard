@@ -77,6 +77,7 @@ Environment Variables
 
 Project Structure
 
+```
 src/
 ├── components/
 │   ├── Header.jsx        # App header with icon and title
@@ -92,6 +93,7 @@ src/
 │   └── stockService.js   # Alpha Vantage API calls
 ├── App.jsx               # Main app component and state management
 └── main.jsx              # React entry point
+```
 
 ---
 
