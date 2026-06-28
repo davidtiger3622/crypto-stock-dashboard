@@ -78,33 +78,19 @@ Environment Variables
 Project Structure
 
 src/
-
 ├── components/
-
-   ├── Header.jsx        # App header with icon and title
-
-   ├── SearchBar.jsx     # Search input with Crypto/Stock toggle
-
-   ├── PriceCard.jsx     # Displays current price and % change
-
-   ├── PriceChart.jsx    # Line chart with 1D/7D/1M periods
-
-   ├── TopCoins.jsx      # Top 10 crypto list on home screen
-
-   ├── TopStocks.jsx     # Popular stocks list on home screen
-
-   ├── Watchlist.jsx     # Personal watchlist component
-
-   └── Skeleton.jsx      # Loading skeleton animation
-
+│   ├── Header.jsx        # App header with icon and title
+│   ├── SearchBar.jsx     # Search input with Crypto/Stock toggle
+│   ├── PriceCard.jsx     # Displays current price and % change
+│   ├── PriceChart.jsx    # Line chart with 1D/7D/1M periods
+│   ├── TopCoins.jsx      # Top 10 crypto list on home screen
+│   ├── TopStocks.jsx     # Popular stocks list on home screen
+│   ├── Watchlist.jsx     # Personal watchlist component
+│   └── Skeleton.jsx      # Loading skeleton animation
 ├── services/
-
-   ├── cryptoService.js  # CoinGecko API calls
-
-   └── stockService.js   # Alpha Vantage API calls
-
+│   ├── cryptoService.js  # CoinGecko API calls
+│   └── stockService.js   # Alpha Vantage API calls
 ├── App.jsx               # Main app component and state management
-
 └── main.jsx              # React entry point
 
 ---
