@@ -7,7 +7,7 @@ A real-time dashboard for tracking live cryptocurrency and stock prices, built w
 ---
 
 Screenshot
-![Crypto & Stock Dashboard Screenshot](./src/assets/hero.png)
+![Crypto & Stock Dashboard Screenshot](./src/assets/hero2.png)
 
 ---
 
